@@ -167,7 +167,7 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             VStack(spacing: 12) {
-                Image("tiefblau.white")
+                Image("tiefblau_white")
                     .resizable()
                     .scaledToFit()
                 Image("tour")
