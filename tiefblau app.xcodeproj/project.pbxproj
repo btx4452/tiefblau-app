@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		572220EA2E68DB1E001ADAAA /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 572220E92E68DB16001ADAAA /* .gitignore */; };
 		579AD8492E64BAC2004BC7F7 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 579AD8482E64BAC2004BC7F7 /* FirebaseAnalytics */; };
 		579AD84B2E64BAED004BC7F7 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 579AD84A2E64BAED004BC7F7 /* FirebaseAnalytics */; };
 		579AD84D2E64BAFD004BC7F7 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 579AD84C2E64BAFD004BC7F7 /* FirebaseAnalytics */; };
@@ -33,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		572220E92E68DB16001ADAAA /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		579AD8172E64B6AE004BC7F7 /* tiefblau app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "tiefblau app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		579AD8242E64B6B0004BC7F7 /* tiefblau appTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "tiefblau appTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		579AD82E2E64B6B0004BC7F7 /* tiefblau appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "tiefblau appUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -112,6 +114,7 @@
 		579AD80E2E64B6AE004BC7F7 = {
 			isa = PBXGroup;
 			children = (
+				572220E92E68DB16001ADAAA /* .gitignore */,
 				579AD88F2E6504EE004BC7F7 /* tiefblau-app-Info.plist */,
 				579AD8192E64B6AE004BC7F7 /* tiefblau app */,
 				579AD8272E64B6B0004BC7F7 /* tiefblau appTests */,
@@ -259,6 +262,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				572220EA2E68DB1E001ADAAA /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
