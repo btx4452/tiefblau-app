@@ -25,4 +25,12 @@ The app displays a **main poster screen** with a set list of songs, allows navig
 - **Consistent Theming**
   - Global app background color (e.g. pink) applied across all screens
 
+
+https://console.firebase.google.com/u/0/project/tiefblau-2025/notification/compose
+
+
+
+
+
+
 ---
