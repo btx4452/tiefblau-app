@@ -1,0 +1,16 @@
+[
+  {
+    "id":1,
+    "title": "Du gehst mir aufs Gemüt",
+    "lyrics": "du gehst mir auf's gemüt\nmit deiner aktuellen ader\nwenn irgend etwas \"in\" ist\nmußt du's natürlich haben –\nob's dir selbst gefällt\nist dabei nicht so wichtig\nandre menschen ziehn dich an\n\ndu vertraust auf markennamen <...>",
+    "backgroundColor": "orange",
+    "foregroundColor": "black"
+  },
+  {
+    "id":2,
+    "title": "Blender",
+    "lyrics": "Seit 2 Jahren\nsingst du jetzt schon\nin dieser Band,\nund du sagst: das zieht die Frauen an!\nDer Bassist kann dich nicht leiden,\nund kein Mischer zu beneiden,\nalles will – und wenig kann!",
+    "backgroundColor": "#76D6FF",
+    "foregroundColor": "black"
+  }
+]
